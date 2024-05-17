@@ -1,0 +1,5 @@
+1 rohit 23 23 23 23 23
+2 vedu 12 12 12 12 12
+3 amaya 0 0 0 0 0
+4 kshitij  0 0 0 0 0
+5 aashu 5 4 3 2 1
