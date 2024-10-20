@@ -1,0 +1,20 @@
+int arr[100] --> fixed suze array
+
+we can still use the vectors which grow automatically
+
+vectors store the value at contiguous location.
+
+they are dynamic size arrays.
+
+-------------------------------------
+
+problems with array is that we have to prealloacte the size.
+the size is sometimes less but cant increase and sometimes it is wasted.
+
+problems with vectors is insertion is O(n).
+working .
+
+insertion in the middle is costly.
+
+-----------------------------------------
+
