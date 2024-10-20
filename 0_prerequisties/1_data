@@ -1,0 +1,23 @@
+what is data ?
+
+Data is the representation of sequential bytes . when data is organised it becomes the information
+
+now, data structure is the systmatic way to organize the data so that it can be used efficiently.
+
+example: arrays :  stores the similar type
+
+data type : defines a certain domain of value
+along with the values on it.
+
+abstract data type : ADT are data type which defines operations on values using functions without specifying what is there inside the functions and how the operations are performed
+
+example: stack ADT.
+
+the stack have its own data storing technique and ots own operations.
+like push(), pop(), isempty() etc.
+
+the ADT hides the inner structure and design of the dta type from the user.
+
+types of data structure:
+
+linear and non linear.
